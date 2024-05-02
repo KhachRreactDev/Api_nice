@@ -1,5 +1,4 @@
-{
-  "data": {
+"data": [
     "home": {
 
     },
@@ -15,10 +14,8 @@
     "gallery": {
 
     },
-    "contact": [
+    "contact": {}
+]
 
-    ]
-  }
-}
 
 
