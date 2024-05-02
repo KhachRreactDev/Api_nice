@@ -1,21 +1,14 @@
-"data": [
+{
+  "data": {
     "home": {
-
+        "home_one": {
+          "img":"https://assets.nicepagecdn.com/11a8ddce/4460241/images/apartment-building-city-with-copy-space.jpg "
+        },
+        "home_two":{}
     },
-    "lending": {
+    "about": {}
 
-    },
-    "about": {
-
-    },
-    "team": {
-
-    },
-    "gallery": {
-
-    },
-    "contact": {}
-]
-
+  }
+}
 
 
