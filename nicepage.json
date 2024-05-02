@@ -1,11 +1,24 @@
 {
-  "Home": {
-    
-  },
-  "Leading": {
+  "data": {
+    "home": {
 
+    },
+    "lending": {
+
+    },
+    "about": {
+
+    },
+    "team": {
+
+    },
+    "gallery": {
+
+    },
+    "contact": [
+
+    ]
   }
-  
-  
 }
+
 
