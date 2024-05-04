@@ -6,8 +6,80 @@
       "title": "Easy Way to Find a Perfect Property",
       "textelem": "Sample text. Click to select the Text Element.",
       "textimage": "Image from "
+    },
+    {
+      "id": 2,
+      "images": [
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-532568.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-325185.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1115804.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1029615.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-2090651.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1769369.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3855622.jpeg"
+      ],
+      "city": [
+        "Paris",
+        "New York",
+        "Los Angeles",
+        "Chicago",
+        "Verona",
+        "Tokio",
+        "Pekin"
+      ],
+      "text": [
+        "10 Property",
+        "40 Property",
+        "34 Property",
+        "20 Property",
+        "60 Property",
+        "56 Property",
+        "60 Property"
+      ]
+    },
+    {
+      "id": 3,
+      "images": [
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-911758.jpeg",
+        "https://img.onmanorama.com/content/dam/mm/en/lifestyle/decor/images/2023/6/1/house-middleclass.jpg.transform/576x300/image.jpg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3855622.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3924335.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1769369.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3874015.jpeg"
+      ],
+      "rate": [
+        "$ 250",
+        "$ 550",
+        "$ 350",
+        "$ 2500",
+        "$ 1450",
+        "$ 150"
+      ],
+      "text": [
+        "Sample text click to select",
+        "Sample text click to select",
+        "Sample text click to select",
+        "Sample text click to select",
+        "Sample text click to select",
+        "Sample text click to select"
+      ]
+    },
+    {
+      "id": 3,
+      "images": [
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-532568.jpeg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/house-isolated-field1.jpg",
+        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/low-angle-shot-facade-white-modern-building-blue-clear-sky.jpg"
+      ],
+      "text": [
+        "Office",
+        "House",
+        "Appartments"
+      ]
     }
+
   ]
 }
+
 
 
