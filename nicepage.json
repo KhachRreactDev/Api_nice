@@ -56,16 +56,53 @@
     },
     {
       "id": 3,
+      "other_text": [
+        {
+          "h1": "Properties For Rent",
+          "h5": "Image from"
+        }
+      ],
       "images": [
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-532568.jpeg",
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/house-isolated-field1.jpg",
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/low-angle-shot-facade-white-modern-building-blue-clear-sky.jpg"
+        {
+          "id": 1,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-911758.jpeg",
+          "rate": "$ 250",
+          "text": "Sample text click to select"
+        },
+        {
+          "id": 2,
+          "img": "https://img.onmanorama.com/content/dam/mm/en/lifestyle/decor/images/2023/6/1/house-middleclass.jpg.transform/576x300/image.jpg",
+          "rate": "$ 550",
+          "text": "Sample text click to select"
+        },
+        {
+          "id": 3,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3855622.jpeg",
+          "rate": "$ 350",
+          "text": "Sample text click to select"
+        },
+        {
+          "id": 4,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3924335.jpeg",
+          "rate": "$ 2500",
+          "text": "Sample text click to select"
+        },
+        {
+          "id": 5,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1769369.jpeg",
+          "rate": "$ 1450",
+          "text": "Sample text click to select"
+        },
+        {
+          "id": 5,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3874015.jpeg",
+          "rate": "$ 150",
+          "text": "Sample text click to select"
+        }
+        
       ],
-      "text": [
-        "Office",
-        "House",
-        "Appartments"
-      ],
+
+
 
       "instr_text": "Let’s Find The Right Selling Option",
       "instr_small": "Image from",
