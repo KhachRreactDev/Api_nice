@@ -56,12 +56,10 @@
     },
     {
       "id": 3,
-      "other_text": [
-        {
-          "h1": "Properties For Rent",
-          "h5": "Image from"
-        }
-      ],
+     "other_text": {
+        "h1": "Properties For Rent",
+        "h5": "Image from"
+      },
       "images": [
         {
           "id": 1,
