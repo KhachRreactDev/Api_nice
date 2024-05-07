@@ -57,33 +57,6 @@
     {
       "id": 3,
       "images": [
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-911758.jpeg",
-        "https://img.onmanorama.com/content/dam/mm/en/lifestyle/decor/images/2023/6/1/house-middleclass.jpg.transform/576x300/image.jpg",
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3855622.jpeg",
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3924335.jpeg",
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1769369.jpeg",
-        "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3874015.jpeg"
-      ],
-      "rate": [
-        "$ 250",
-        "$ 550",
-        "$ 350",
-        "$ 2500",
-        "$ 1450",
-        "$ 150"
-      ],
-      "text": [
-        "Sample text click to select",
-        "Sample text click to select",
-        "Sample text click to select",
-        "Sample text click to select",
-        "Sample text click to select",
-        "Sample text click to select"
-      ]
-    },
-    {
-      "id": 3,
-      "images": [
         "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-532568.jpeg",
         "https://assets.nicepagecdn.com/11a8ddce/4460241/images/house-isolated-field1.jpg",
         "https://assets.nicepagecdn.com/11a8ddce/4460241/images/low-angle-shot-facade-white-modern-building-blue-clear-sky.jpg"
@@ -92,13 +65,34 @@
         "Office",
         "House",
         "Appartments"
-      ]
+      ],
+
+      "instr_text": "Let’s Find The Right Selling Option",
+      "instr_small": "Image from",
+      "instruction": [
+        {
+          "id": 1,
+          "img": "https://i.pinimg.com/564x/70/dd/dd/70dddd5eccb911cb23bf98f4246e9e5c.jpg",
+          "bold": "Property Management",
+          "text": "Sample text. Click to select the Text Element."
+        },
+        {
+          "id": 2,
+          "img": "https://play-lh.googleusercontent.com/zAboa4aVE6Ix_c8Lae_5SfY-eI3dpOdJnj8amk-HyRFjnCDSaBRCJCOmySeteE4fAyg",
+          "bold": "Mortgage Services",
+          "text": "Sample text. Click to select the Text Element."
+        },
+        {
+          "id": 3,
+          "img": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtaWNvbjQtamlyMjA2Mi1wb3ItbC5qcGc.jpg",
+          "bold": "Currency Services",
+          "text": "Sample text. Click to select the Text Element."
+        }
+      ],
+
+      "image": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/hand-holding-house-real-estate-property-model.jpg"
     }
 
   ]
 }
-
-
-
-
 
