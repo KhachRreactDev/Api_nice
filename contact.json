@@ -1,1 +1,42 @@
+{
+    "contact": [
+        {
+            "id": 1,
+            "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-532568.jpeg",
+            "title": "Contact",
+            "inf": "Sample text. Click to select the Text Element.",
+            "text": "Image from"
+        },
 
+        {
+            "id": 2,
+            "title": "We’d love to hear from you",
+            "text": "Sample text. Click to Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Pharetra magna ac placerat vestibulum. Quam lacus suspendisse faucibus interdum posuere lorem. Egestas tellus rutrum tellus pellentesque eu tincidunt. Neque vitae tempus quam pellentesque nec."
+        },
+        {
+            "id": 3,
+            "title" : "Visit Our Office",
+            "text": "Sample text. Click to select the Text Element.",
+            "city" : [
+                {
+                    "id": 1,
+                    "img": "https://www.jugendherberge.de/fileadmin/_processed_/6/a/csm_jugendherberge-paris-guenstig_d3f6f05d8c.jpg",
+                    "name": "Paris",
+                    "number" : 5656 21 98456 315 905-4567
+                },
+                {
+                    "id": 2,
+                    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgM3v_RuFeMIHUNVdjboFWAZ3zRCNf14SmYnrJg2xXMA&s",
+                    "name": "London",
+                    "number" : 5656 21  98456 315 905-4567
+                },
+                {
+                    "id": 3,
+                    "img": "https://t3.ftcdn.net/jpg/02/09/70/56/360_F_209705645_b78HGJI1i1mxqLwMYA7z1m3VvCxgxJFO.jpg",
+                    "name": "New York",
+                    "number" : 5656 21  98456 315 905-4567
+                }
+            ]
+        }
+    ]
+}
