@@ -1,0 +1,85 @@
+{
+    "team": [
+        {
+            "id": 1,
+            "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-linkedin-sales-navigator-2182981.jpg",
+            "title": "Team",
+            "text": "Sample text. Click to select the Text Element.",
+            "small": "Image from"
+        },
+
+        {
+            "id": 2,
+            "title": "Our Exclusive Agents",
+            "small": "Image from",
+
+            "image": [
+                {
+                    "id": 1,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/handsome-confident-smiling-man-with-hands-crossed-chest.jpg",
+                    "name": "Nick Larson"
+                },
+                {
+                    "id": 2,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-christina-morillo-1181742.jpg",
+                    "name": "Stella Hudson"   
+                },
+                {
+                    "id": 3,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/fashionable-young-redhead-woman-with-braid-tattoo-shoulder-having-rest-indoors.jpg",
+                    "name": "Nina Perry"   
+                },
+                {
+                    "id": 4,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-709802.jpeg",
+                    "name": "Lada Silva"   
+                },
+                {
+                    "id": 5,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1043474.jpeg",
+                    "name": "Pitter Scavo"   
+                },
+                {
+                    "id": 6,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-3047316.jpeg",
+                    "name": "Tina Ramos"   
+                },
+                {
+                    "id": 7,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1181424.jpeg",
+                    "name": "Ralf Johnson"   
+                },
+                {
+                    "id": 8 ,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-1036623.jpeg",
+                    "name": "Inga Howard"   
+                },
+                {
+                    "id": 9,
+                    "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-2698465.jpeg",
+                    "name": "Albert Florence"   
+                }
+            ] 
+        },
+
+        {
+            "id": 3,
+            "title": "What people say about our agents",
+            "smalll": "Image from",
+            "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-christina-morillo-1181742.jpg",
+
+            "big_text": [
+                {
+                    "id": 1,
+                    "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl. Enim nunc",
+                    "name": "Celia Almeda"
+                },
+                {
+                    "id": 2,
+                    "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl.",
+                    "name": "Frank Kinney"
+                }
+            ]
+        }
+    ]
+}
