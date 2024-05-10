@@ -126,6 +126,137 @@
       ],
 
       "image": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/hand-holding-house-real-estate-property-model.jpg"
+    },
+
+
+    
+    {
+      "id": 4,
+      "count": [
+        {
+          "id": 1,
+          "number": 0,
+          "name": "Award Winning"
+        },
+        {
+          "id": 2,
+          "number": 0,
+          "name": "Property Ready"
+        },
+        {
+          "id": 3,
+          "number": 0,
+          "name": "Happy Customer"
+        }
+      ]
+    },
+
+
+
+    {
+      "id": 5,
+      "title": "Explore Apartment Types",
+      "small": "Image from",
+
+      "house": [
+        {
+          "id": 1,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/pexels-photo-532568.jpeg",
+          "name": "Office"
+        },
+        {
+          "id": 2,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/house-isolated-field1.jpg",
+          "name": "House"
+        },
+        {
+          "id": 3,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/low-angle-shot-facade-white-modern-building-blue-clear-sky.jpg",
+          "name": "Appartaments"
+        }
+      ],
+
+      "inform": [
+        {
+          "id": 1,
+          "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/wooden-keychain-white.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Trusted By Best Exclusive Agents",
+          "text": "Sample text. Click to select the Text Element.",
+          "small": "Image from",
+
+          "info": [
+            {
+              "id": 1,
+              "text": "Find excellent deals"
+            },
+            {
+              "id": 2,
+              "text": "Friendly host & Fast support"
+            },
+            {
+              "id": 3,
+              "text": "List your own property"
+            }
+          ]
+        }
+      ],
+
+
+      "logo": [
+        {
+          "id": 1,
+          "logo": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/a32313390c475bec9fff6116/black-logo-1.png"
+        },
+        {
+          "id": 2,
+          "logo": "https://images01.nicepagecdn.com/thumbs/a1389d7bc73adea1e1c1fb7e/e8ce7cced71d5c7aa4d002e1/black-logo-2_150.png"
+        },
+        {
+          "id": 3,
+          "logo": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/8aba9edd10b65867bb8c1fd0/black-logo-3.png"
+        },
+        {
+          "id": 4,
+          "logo": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/da20b91fac9e573f9e813582/black-logo-4.png"
+        },
+        {
+          "id": 5,
+          "logo": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/f4c2ec35cca95ad2b1db886b/black-logo-5.png"
+        },
+        {
+          "id": 6,
+          "logo": "https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/62605c9f773e5f9cbdda4dbf/black-logo-6.png"
+        },
+        {
+          "id": 7,
+          "logo": "https://images01.nicepagecdn.com/thumbs/a1389d7bc73adea1e1c1fb7e/7b273cca908c5a97a1457ce5/black-logo-8_150.png"
+        }
+      ],
+
+      "img": "https://assets.nicepagecdn.com/11a8ddce/4460241/images/house-isolated-field1.jpg",
+
+      "bigtext": [
+        {
+          "id": 1,
+          "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl. Enim nunc",
+          "name": "Celia Almeda"
+        },
+        {
+          "id": 2,
+          "text": "Proin sed libero enim sed faucibus turpis. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Ut sem nulla pharetra diam sit amet nisl. ",
+          "name":  "Frank Kinney"
+        }
+      ]
+    },
+
+
+    { 
+      "id": 6,
+      "title": "Get Your Dream House",
+      "text": "Sample text. Click to select the Text Element."
     }
 
   ]
